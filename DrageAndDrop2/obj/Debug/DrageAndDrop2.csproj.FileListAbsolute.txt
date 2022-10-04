@@ -1,0 +1,9 @@
+c:\users\sarmed\documents\visual studio 2012\Projects\DrageAndDrop2\DrageAndDrop2\bin\Debug\DrageAndDrop2.exe.config
+c:\users\sarmed\documents\visual studio 2012\Projects\DrageAndDrop2\DrageAndDrop2\bin\Debug\DrageAndDrop2.exe
+c:\users\sarmed\documents\visual studio 2012\Projects\DrageAndDrop2\DrageAndDrop2\bin\Debug\DrageAndDrop2.pdb
+c:\users\sarmed\documents\visual studio 2012\Projects\DrageAndDrop2\DrageAndDrop2\obj\Debug\DrageAndDrop2.csprojResolveAssemblyReference.cache
+c:\users\sarmed\documents\visual studio 2012\Projects\DrageAndDrop2\DrageAndDrop2\obj\Debug\DrageAndDrop2.Form1.resources
+c:\users\sarmed\documents\visual studio 2012\Projects\DrageAndDrop2\DrageAndDrop2\obj\Debug\DrageAndDrop2.Properties.Resources.resources
+c:\users\sarmed\documents\visual studio 2012\Projects\DrageAndDrop2\DrageAndDrop2\obj\Debug\DrageAndDrop2.csproj.GenerateResource.Cache
+c:\users\sarmed\documents\visual studio 2012\Projects\DrageAndDrop2\DrageAndDrop2\obj\Debug\DrageAndDrop2.exe
+c:\users\sarmed\documents\visual studio 2012\Projects\DrageAndDrop2\DrageAndDrop2\obj\Debug\DrageAndDrop2.pdb
